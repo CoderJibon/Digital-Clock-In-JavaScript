@@ -28,4 +28,4 @@ showTime();
 
 setInterval(()=>{
     showTime();
-});
+},1000);
